@@ -13,8 +13,6 @@ Repositório para poder aprender a usar o Git e GitHub com intuito de versionar 
 6. Aprendendo e utilizando a linguagem Markdown
 7. Entendo e hospedando no Github Pages
 ***
-![Github/Octocat](images/octocat.png)
-***
 ### Tecnologias que utilizo/estudo/interesso
 Tecnologia | Experiência
 ---|---
@@ -35,3 +33,6 @@ NoSql | Interese
 React Native | Interese
 Expo | Interese
 Electron | Interese
+***
+####`console.log("Hello Github!");`
+![Github/Octocat](images/octocat.png)
