@@ -13,3 +13,5 @@ Repositório para poder aprender a usar o Git e GitHub com intuito de versionar 
 6. Aprendendo e utilizando a linguagem Markdown
 7. Entendo e hospedando no Github Pages
 
+![Github/Octocat](images/octocat.png)
+
